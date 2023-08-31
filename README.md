@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ALX School DevOps - Shell Permissions
 
 Welcome to the ALX School DevOps Shell Permissions project repository. This repository contains scripts that perform various tasks related to manipulating file and directory permissions using shell commands.
@@ -121,4 +120,3 @@ Learn the meaning of LTS (Long Term Support) in the context of software releases
 **Note:** All scripts in this repository are exactly two lines
 
 **Author**: Ousama Oujaber
->>>>>>> 92dba44cdf6eab05f83254ac26c7569dc792296b
