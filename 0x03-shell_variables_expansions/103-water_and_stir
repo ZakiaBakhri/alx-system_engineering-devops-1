@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "16i${WATER} ${STIR}+f" | dc
+echo -n "${WATER}${STIR}" | tr -d '.' | tr -d -c 'a-f'
