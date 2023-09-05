@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(16#WATER + 16#STIR)" | bc -l | tr -d '\n'
+echo "16i${WATER} ${STIR}+f" | dc
